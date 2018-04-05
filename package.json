@@ -1,0 +1,26 @@
+{
+  "name": "next-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-lowe-nz/next.git"
+  },
+  "author": "Michael Lowe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michael-lowe-nz/next/issues"
+  },
+  "homepage": "https://github.com/michael-lowe-nz/next#readme",
+  "dependencies": {
+    "next": "^5.1.0",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1"
+  }
+}
